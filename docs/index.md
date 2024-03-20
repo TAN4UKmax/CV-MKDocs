@@ -13,7 +13,7 @@ As an embedded systems engineer I do calculations and modeling in MATLAB/Simulin
 
 My contacts and social media
 ----------------------------
-:material-phone: Phone: [+49015158846487](tel:+49015158846487)
+:material-phone: Phone: [+4915158846487](tel:+4915158846487)
 
 :material-email: Email: [tan4ukmak7@gmail.com](mailto:tan4ukmak7@gmail.com)
 
